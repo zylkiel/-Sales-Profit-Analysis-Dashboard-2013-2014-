@@ -28,8 +28,8 @@ Pivot Charts
 Slicers & Interactive Filters
 Dashboard Design
 Data Visualization
-📌 Business Value
 
+📌 Business Value
 This dashboard enables stakeholders to monitor KPIs, evaluate product performance, identify profitable customer segments, and uncover sales trends that can drive future business growth and operational efficiency.
 
 #Excel #DataAnalytics #BusinessIntelligence #DashboardDesign #DataVisualization #SalesAnalysis #ProfitAnalysis #GitHubPortfolio #DataAnalyst #AnalyticsProject
