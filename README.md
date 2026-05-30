@@ -9,6 +9,8 @@ Identify top-performing products and customer segments.
 Track monthly and quarterly sales trends.
 Compare yearly performance across products and markets.
 Support data-driven business decisions through visual analytics.
+
+
 📈 Key Insights
 Generated $127.9M Gross Sales, $118.7M Total Sales, and $16.9M Total Profit during the period analyzed.
 Government Segment contributed the highest sales revenue, significantly outperforming other customer segments.
@@ -17,6 +19,8 @@ Sales experienced a major peak in October, indicating strong seasonal demand.
 Canada and the USA recorded the highest quarterly sales performance among all countries.
 Year 2014 contributed 77% of total profit, demonstrating substantial growth compared to 2013.
 Product profitability trends revealed consistent performance from VTT and Velo, while other products showed fluctuating profit patterns throughout the year.
+
+
 🛠️ Tools & Techniques
 Microsoft Excel
 Pivot Tables
